@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <samp>Hola soy <a href="https://github.com/asolden22">Nachito</a>, un humano que vive en Argentina</samp>
+  <samp>Hola soy <a href="https://github.com/asolden22">Nachito</a>, un humano que vive en Argentina\nMe gusta Typescript y C++, aunque este ultimo no me va muy bien.</samp>
   <br>
   <br>
   <br>
