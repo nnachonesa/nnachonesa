@@ -16,5 +16,3 @@
   <br>
 
 </p>
- ![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asolden22) 
- ![Stats](https://github-readme-stats.vercel.app/api?username=asolden22&show_icons=true) 
