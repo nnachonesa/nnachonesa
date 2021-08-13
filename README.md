@@ -1,6 +1,5 @@
 <p align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=asolden22&color=00ae86&label=Numero+de+personas+que+visitaron+mi+perfil:">
   <br>
   <br>
   <br>
@@ -115,6 +114,10 @@
          />
       </td>
    </tr>
+     <tr>
+       
+     </tr>
+     
 </div>
    
 </table>
