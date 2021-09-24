@@ -1,4 +1,4 @@
-<h1 align="center">Holanda vieja olor a chivo con cara de limon podrido, me llamo nacho y me hice un github porque quiero robar codes pta☔</h1>
+<h1 align="center">Holanda vieja olor a chivo con cara de limon podrido, me llamo nacho y me hice un github porque quiero robar codes ☔</h1>
 <table>
    <tr>
       <td align="center">
