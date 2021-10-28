@@ -1,8 +1,8 @@
-<h1 align="center">Holanda vieja olor a chivo con cara de limon podrido, me llamo nacho y si queres ser mi amigo tenes que aceptar mis terminos de servicio ☔.</h1>
+<h1 align="center"> ☔.</h1>
 <table>
    <tr>
       <td align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nacho64&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
+        <img align="center" src="<a href="https://wakatime.com/@f034152b-d785-46e7-b33e-50e165f094c6"><img src="https://wakatime.com/badge/user/f034152b-d785-46e7-b33e-50e165f094c6.svg" alt="Total time coded since Sep 22 2021" /></a>">
       </td>
       <td align="center" style="padding=0;width=50%;">
          <img
