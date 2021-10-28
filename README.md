@@ -2,7 +2,7 @@
 <table>
    <tr>
       <td align="center">
-        <img align="center" src="<a href="https://wakatime.com/@f034152b-d785-46e7-b33e-50e165f094c6"><img src="https://wakatime.com/badge/user/f034152b-d785-46e7-b33e-50e165f094c6.svg" alt="Total time coded since Sep 22 2021" /></a>">
+        <img align="center" src="<a href="https://wakatime.com/@f034152b-d785-46e7-b33e-50e165f094c6"><img src="https://wakatime.com/badge/user/f034152b-d785-46e7-b33e-50e165f094c6.svg" alt="Total time coded since Sep 22 2021" /></a>>
       </td>
       <td align="center" style="padding=0;width=50%;">
          <img
