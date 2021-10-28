@@ -1,4 +1,4 @@
-<h1 align="center"> ☔.</h1>
+
 <table>
    <tr>
 <td align="center">
