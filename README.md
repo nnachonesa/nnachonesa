@@ -13,6 +13,5 @@
          <td align="center">
             <img src="https://komarev.com/ghpvc/?username=nacho64">
 </td>
-      </td>
    </tr>
 </table>
