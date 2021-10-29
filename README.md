@@ -10,6 +10,9 @@
             style="padding=0;"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacho64&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true"
          />
+         <td align="center">
+            <img src="https://komarev.com/ghpvc/?username=nacho64">
+</td>
       </td>
    </tr>
 </table>
