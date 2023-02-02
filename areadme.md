@@ -2,6 +2,7 @@
   <br>
   <samp>hi! im nacho</samp>
   <br>
+  <img src="https://komarev.com/ghpvc/?username=nacho64">
   <br>
   <br>
   <br>
