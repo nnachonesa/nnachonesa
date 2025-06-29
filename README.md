@@ -32,16 +32,13 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-Rust                     1 hr 29 mins        ██████████████████░░░░░░░   72.23 % 
-Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-TOML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,7 +54,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2025 01:23:52 UTC
+ Last Updated on 29/06/2025 01:43:21 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
