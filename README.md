@@ -5,6 +5,8 @@
 
 > 📦 398.9 kB Used in GitHub's Storage 
  > 
+> 🏆 53 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
@@ -30,13 +32,15 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 51 mins       ████████████████████████░   95.47 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 44 mins        ███████████████░░░░░░░░░░   58.34 % 
+Neovim                   1 hr 14 mins        ██████████░░░░░░░░░░░░░░░   41.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -52,7 +56,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2025 01:41:16 UTC
+ Last Updated on 24/07/2025 01:40:34 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
