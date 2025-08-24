@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 398.9 kB Used in GitHub's Storage 
+> 📦 399.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,18 +30,13 @@ Sunday                   83 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-HTML                     24 mins             █████████████████░░░░░░░░   68.88 % 
-Rust                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  28 mins             ████████████████████░░░░░   81.14 % 
-Neovim                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,7 +52,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2025 01:19:02 UTC
+ Last Updated on 24/08/2025 01:29:48 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
