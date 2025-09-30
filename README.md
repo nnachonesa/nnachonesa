@@ -32,13 +32,14 @@ Sunday                   92 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     28 mins             ████████████████████████░   96.39 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -54,7 +55,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2025 01:20:08 UTC
+ Last Updated on 30/09/2025 01:19:24 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
