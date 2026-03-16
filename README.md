@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 545.1 kB Used in GitHub's Storage 
+> 📦 545.2 kB Used in GitHub's Storage 
  > 
 > 🏆 26 Contributions in the Year 2026
  > 
@@ -32,13 +32,16 @@ Sunday                   134 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      24 mins             ██████████████░░░░░░░░░░░   56.71 % 
+TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -54,7 +57,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2026 02:12:37 UTC
+ Last Updated on 16/03/2026 02:13:57 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
