@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 583.7 kB Used in GitHub's Storage 
+> 📦 583.8 kB Used in GitHub's Storage 
  > 
 > 🏆 26 Contributions in the Year 2026
  > 
@@ -13,35 +13,6 @@
  > 
 > 🔑 79 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Friday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Sunday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-JavaScript               1 hr 14 mins        ███████████████████████░░   91.14 % 
-Python                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-
-🔥 Editors: 
-VS Code                  1 hr 21 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -55,7 +26,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 02:55:08 UTC
+ Last Updated on 18/05/2026 03:32:58 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
