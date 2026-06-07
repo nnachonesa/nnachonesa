@@ -13,34 +13,6 @@
  > 
 > 🔑 79 Private Repositories 
  > 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 216 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
-Friday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Sunday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Argentina/Buenos_Aires
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -54,7 +26,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 02:57:51 UTC
+ Last Updated on 07/06/2026 03:43:24 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
