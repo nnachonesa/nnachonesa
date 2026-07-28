@@ -1,6 +1,8 @@
 <p align="center">hola soy nacho</p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 583.9 kB Used in GitHub's Storage 
@@ -32,17 +34,19 @@ Sunday                   139 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               1 hr 45 mins        ███████████████████████░░   90.30 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -58,7 +62,7 @@ CSS                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:44:16 UTC
+ Last Updated on 28/07/2026 02:24:29 UTC
 <!--END_SECTION:waka-->
 
 ![](http://moe-counter.es3n1n.eu/get/@nachoofg?name=nachoofg&theme=asoul&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
