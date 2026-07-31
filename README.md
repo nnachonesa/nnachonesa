@@ -44,12 +44,6 @@ VS Code                  30 mins             ███████████�
 Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
