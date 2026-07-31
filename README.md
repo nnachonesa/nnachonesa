@@ -1,7 +1,5 @@
 <p align="center">hola soy nacho</p>
 
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
